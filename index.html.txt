@@ -1,7 +1,9 @@
 <Doctype html!>
 <html>
  <head>
-
+<style>
+	.blue{color: blue}
+</style>
    <title>Hello World :) :) :)</title>
 
    <link rel="stylesheet" href="mystyle.css">
