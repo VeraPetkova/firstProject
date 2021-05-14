@@ -2,13 +2,15 @@
 <html>
  <head>
 
-   <title>Hello </title>
+   <title>Hello World :) :) :)</title>
+
    <link rel="stylesheet" href="mystyle.css">
    
   </head>
 
 <body>
 	<p>text :)</p>
+	<p>after merge conflict</p>
 </body>
 
 </html>
