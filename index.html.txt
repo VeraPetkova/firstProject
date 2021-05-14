@@ -12,6 +12,7 @@
 
 	<p>text :)</p>
 	<p>after merge conflict</p>
+	<p>git stash</p>
 </body>
 
 </html>
