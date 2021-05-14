@@ -9,6 +9,7 @@
 
 <body>
 	<p>text</p>
+	<p>git stash change</p>
 </body>
 
 </html>
