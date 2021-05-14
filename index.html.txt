@@ -16,6 +16,7 @@
 	<p>after merge conflict</p>
 	<p>git stash</p>
 	<p>I will avoid conflict</p>
+        <p class="blue">I am a dev branch</p>
 
 
 </body>
